@@ -1,0 +1,6 @@
+{
+  "name": "MEFE",
+  "description": "Mindful digital wardrobe curation, personal style archive, and emotional daily outfit journal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
